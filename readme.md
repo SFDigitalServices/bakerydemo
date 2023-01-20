@@ -170,7 +170,7 @@ Log into the admin with the credentials `admin / changeme`.
 
 If you want a publicly accessible demo site, use [Heroku's](https://heroku.com) one-click deployment solution to the free 'Hobby' tier:
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/wagtail/bakerydemo)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SFDigitalServices/bakerydemo)
 
 If you do not have a Heroku account, clicking the above button will walk you through the steps
 to generate one. At this point you will be presented with a screen to configure your app. For our purposes,
